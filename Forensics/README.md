@@ -6,3 +6,4 @@ i doing writeup (picoCTF) for my great team KELAPASAWITH, so check it out, maybe
 - Corrupted file
 - Disko 1
 - RED
+- Ph4nt0m 1ntrud3r
